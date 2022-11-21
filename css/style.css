@@ -23,9 +23,13 @@ body {
 footer {
     color: red;
     background-color: #fefefe;
-    position: absolute;
+    /*position: absolute;
     bottom: 0;
     width: 100%;
+    
+    dit zet de footer vanonder aan de pagina bij hogere resolutie,
+    maar zorgt er voor dat footer niet correct responsive is
+    */
 }
 
 .colorBlack {
