@@ -1,6 +1,6 @@
 let lijstfotos = new Array()
 carousel()
-let teller = 0
+let teller = 0;
 const btn = document.getElementById("btn_carousel_2").onclick = VolgendeFoto
 const btn2 = document.getElementById("btn_carousel_1").onclick = VorigeFoto
 
