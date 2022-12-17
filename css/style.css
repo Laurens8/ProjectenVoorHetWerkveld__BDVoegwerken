@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(55, 52, 52);
+}
+
+main {
+    color: white;
+}
+
+main h1 {
+    color: red;
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
+}
+
+.nav-link {
+    color: red;
+}
+
+.nav-link:hover {
+    color: black;
+    font-weight: bold;
+}
+
+footer {
+    color: red;
+    background-color: #fefefe;
+    bottom: 0;
+    width: 100%;
+}
+
+.colorBlack {
+    color: black;
+}
+
+footer div p {
+    color: black;
+}
+
+.arendonk {
+    color: red;
+}
+
+.carousel {
+    margin-left: auto;
+    margin-right: auto;
+    width: 160%;
+    background: rgba(0, 0, 0, 0.199);
+}
+
+#foto_1 {
+    width: 20%;
+    height: 10%;
+    align-self: center;
+}
+
+#foto_2 {
+    width: 40%;
+}
+
+#foto_3 {
+    width: 20%;
+    height: 10%;
+    align-self: center;
+}
+
+#btn_carousel_1 {
+    align-self: center;
+    height: 100%;
+    width: 100%;
+    font-size: 1000%;
+}
+
+#btn_carousel_2 {
+    align-self: center;
+    height: 100%;
+    width: 100%;
+    font-size: 1000%;
+}
